@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;700&family=Roboto:wght@400;500;700;900&display=swap');
+
+ header{
+    background-color: #f2e9e9 ;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ section.my-articles{
+   background-color: #f2e9e9;
+ }
+
+ header p{
+    color:blueviolet;
+ }
+
+ li a {
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue;
+ }
+
+ section.my-articles > h2{    
+    font-family: sans-serif;
+    color: green;
+ }
+
+

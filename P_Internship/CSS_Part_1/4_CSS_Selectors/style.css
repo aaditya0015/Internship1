@@ -1,0 +1,15 @@
+.text-red{
+    color : red;
+ }
+
+ .text-green{
+    color : green;
+ }
+
+ .bg-grey{
+   background-color:  #cdcdcd;
+ }
+
+ .bg-dark {
+    background-color: rgb(42, 41, 41);
+ }
