@@ -1,0 +1,5 @@
+ #fastapi: a web framework for building APIs in Python.
+ #sqlalchemy: database connects to fastapi server.it is also postgresql database driver for python.
+ #uvicorn: runs to help fastapi server.
+
+ http://127.0.0.1:8000/health
